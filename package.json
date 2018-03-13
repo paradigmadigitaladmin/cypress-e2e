@@ -1,0 +1,16 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "Prueba de concepto de cypress para el blog de Paradigma",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nicolas Cordero",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^2.0.0",
+    "mocha": "^5.0.4",
+    "mochawesome": "^3.0.2"
+  }
+}
