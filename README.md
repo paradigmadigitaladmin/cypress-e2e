@@ -21,8 +21,8 @@ En la linea 19 y 20 insertar user y password de GitHub:
 
 En la línea 82 y 83, insertar el user y pass de la página de AS:
 ``` javascript
-        Email1: "user",
-        Password:"password",
+        Email1: 'user',
+        Password: 'password',
 ```
 
 ### Ejecución visual
