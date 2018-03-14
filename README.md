@@ -52,7 +52,7 @@ cypress run
 Los test se ejecutar sobre un navegador headless, realizando un reporte de pruebas sobre la consola y generarando un
 un video de las pruebas.
 
-[![Video navegador Headless](https://img.youtube.com/vi/4OeNwew9ijc/9.jpg)](https://www.youtube.com/watch?v=4OeNwew9ijc)
+[![Video navegador Headless](https://img.youtube.com/vi/4OeNwew9ijc/0.jpg)](https://www.youtube.com/watch?v=4OeNwew9ijc)
 
 ### Reporte de pruebas
 Para obtener un reporte de pruebas diferente al que nos aporta Cypress basta con insertar el siguiente comando:
