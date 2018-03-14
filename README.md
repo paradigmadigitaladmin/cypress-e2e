@@ -33,8 +33,12 @@ Para ejecutar el proyecto sobre un navegador de manera visual, basta con introdu
 cypress open
 ```
 
+![Cypress abierto](https://www.paradigmadigital.com/wp-content/uploads/2018/03/Cypress-3.png)
+
 Una vez abierto, basta con seleccionar el fichero poc_cypress.js para que se ejecuten las pruebas sobre el navegador
 y genere un reporte.
+
+![Cypress reporte](https://www.paradigmadigital.com/wp-content/uploads/2018/03/Cypress-7.png)
 
 ### Ejecución en consola sobre navegador headless
 
@@ -43,9 +47,12 @@ Para ejecutar el proyecto sobre la consola hay que introducir el siguiente coman
 ``` console
 cypress run
 ```
+![Cypress console](https://www.paradigmadigital.com/wp-content/uploads/2018/03/Cypress-9.png)
 
 Los test se ejecutar sobre un navegador headless, realizando un reporte de pruebas sobre la consola y generarando un
 un video de las pruebas.
+
+![Video navegador Headless](https://www.youtube.com/watch?v=4OeNwew9ijc)
 
 ### Reporte de pruebas
 Para obtener un reporte de pruebas diferente al que nos aporta Cypress basta con insertar el siguiente comando:
@@ -53,4 +60,4 @@ Para obtener un reporte de pruebas diferente al que nos aporta Cypress basta con
 ``` console
 cypress run --reporter mochawesome
 ```
-
+![mochawesome](https://www.paradigmadigital.com/wp-content/uploads/2018/03/Cypress-10.png)
